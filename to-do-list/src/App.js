@@ -8,7 +8,7 @@ function App() {
   return (
     <div className = "App">
         <head>
-          <title>Task List 2021</title>
+          <title>Task List 2023</title>
 
           <link rel="stylesheet" href="Styles.css" />
         </head>
